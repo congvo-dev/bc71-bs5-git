@@ -9,3 +9,7 @@ git push : dua source tu local len remote
 
 step 1 : git add -A
 step 2 : git commit -m " description "
+step 3 : git push -u origin master ( day lan dau / master ten nhanh)
+         git push ( tu lan 2 tro di, sau khi tren github da co nhanh master)
+
+git log : hien thi lich su commit
