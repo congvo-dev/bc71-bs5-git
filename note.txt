@@ -13,3 +13,6 @@ step 3 : git push -u origin master ( day lan dau / master ten nhanh)
          git push ( tu lan 2 tro di, sau khi tren github da co nhanh master)
 
 git log : hien thi lich su commit
+
+git check out -b branch
+git check out branch
