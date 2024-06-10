@@ -14,5 +14,5 @@ step 3 : git push -u origin master ( day lan dau / master ten nhanh)
 
 git log : hien thi lich su commit
 
-git check out -b branch
-git check out branch
+git check out -b branch : tạo nhánh mới ( branch là tên nhánh / nhớ commit )
+git check out branch : chuyển nhánh ( nhớ commit )
