@@ -1,0 +1,11 @@
+
+git init: khoi tao repository local
+
+git remote add origin url : ket noi duong dan url local len remote ( github )
+
+git remote show origin : hien thi duong dan dang duoc ket noi
+
+git push : dua source tu local len remote 
+
+step 1 : git add -A
+step 2 : git commit -m " description "
